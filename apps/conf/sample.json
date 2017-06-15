@@ -1,0 +1,11 @@
+{
+    "dbhost":"localhost",
+    "dbport":32768,
+    "db":"mydb",
+    "table":"ticker",
+    "platform":"btcc",
+    "market":"btccny",
+    "tagkeys":["last"],
+    "fieldkeys":["high","low","buy","sell","vol","vwap","prev_close","open"],
+    "tskey":"date"
+}
